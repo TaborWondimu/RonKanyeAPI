@@ -1,0 +1,17 @@
+C:\Users\15103\repos\RonKanyeAPI\bin\Debug\net6.0\RonKanyeAPI.exe
+C:\Users\15103\repos\RonKanyeAPI\bin\Debug\net6.0\RonKanyeAPI.deps.json
+C:\Users\15103\repos\RonKanyeAPI\bin\Debug\net6.0\RonKanyeAPI.runtimeconfig.json
+C:\Users\15103\repos\RonKanyeAPI\bin\Debug\net6.0\RonKanyeAPI.dll
+C:\Users\15103\repos\RonKanyeAPI\bin\Debug\net6.0\ref\RonKanyeAPI.dll
+C:\Users\15103\repos\RonKanyeAPI\bin\Debug\net6.0\RonKanyeAPI.pdb
+C:\Users\15103\repos\RonKanyeAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.csproj.AssemblyReference.cache
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.AssemblyInfoInputs.cache
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.AssemblyInfo.cs
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.csproj.CoreCompileInputs.cache
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.csproj.CopyComplete
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.dll
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\ref\RonKanyeAPI.dll
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.pdb
+C:\Users\15103\repos\RonKanyeAPI\obj\Debug\net6.0\RonKanyeAPI.genruntimeconfig.cache
